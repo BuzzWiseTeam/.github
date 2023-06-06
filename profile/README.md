@@ -1,7 +1,7 @@
 <h1 align="center">Buzz Wise</h1>
 <br>
 <p align="center">
-  <img src="https://github.com/BuzzWiseTeam/.github/blob/main/profile/BW.png">
+  <img src="https://github.com/BuzzWiseTeam/.github/blob/main/profile/Logo.png">
 </p>
 <br>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
