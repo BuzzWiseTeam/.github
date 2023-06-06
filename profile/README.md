@@ -4,7 +4,7 @@
   <img src="https://github.com/BuzzWiseTeam/.github/blob/main/profile/Logo.png">
 </p>
 <br>
-<h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
+<h3 align="center">Bangkit Academy 2023 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C23-PC592 Team</h4>
 
 <br>
