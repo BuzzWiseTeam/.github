@@ -27,7 +27,7 @@ Job, Talent, and Employment
 
 <br>
 
-## Design 🎨
-<a href=""></a>
+## UI Design 🎨
+<a href="https://www.figma.com/file/CRKQ6oejiJRMIpNdNH1D4i/Buzz-Wise-Design?type=design&node-id=0%3A1&t=Y3noAjsZymz7bvEx-1">Figma Link</a>
 
 <br>
