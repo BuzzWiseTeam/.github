@@ -6,10 +6,11 @@
 <br>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C23-PC592 Team</h4>
+
 <br>
 
 ## Introduction 👋
-Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a list of our team members:
+Yoo guys! We are from **C23-PC592**. We consist of 6 people and here is a list of our team members:
 
 | Name | Bangkit ID | Learning Path | University |
 | :---: | :---: | :---: | :---: |
