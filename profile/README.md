@@ -23,7 +23,7 @@ Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a 
 <br>
 
 ## Theme 📖
-Education, Learning, and Personal Development
+Job, Talent, and Employment
 
 <br>
 
