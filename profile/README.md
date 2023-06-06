@@ -5,7 +5,7 @@
 </p>
 <br>
 <h2 align="center">Bangkit Academy 2023 Product Based Capstone Project</h2>
-<h3 align="center">Created with ❤️ by C23-PC592 Team</h3>
+<h3 align="center">Created With ❤️ By C23-PC592 Team</h3>
 
 <br>
 
