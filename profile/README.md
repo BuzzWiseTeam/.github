@@ -1,4 +1,4 @@
-<h1 align="center">Buzz Wise</h1>
+<h1 align="center">Buzz Wise Team</h1>
 <br>
 <p align="center">
   <img src="https://github.com/BuzzWiseTeam/.github/blob/main/profile/Logo.png">
@@ -19,7 +19,7 @@ Yoo guys! We are from **C23-PC592**. We consist of 6 people and here is a list o
 | [Lethfi Novia](https://github.com/Lethfinv) | M055DSY3207 | Machine Learning | Politeknik Manufaktur Bandung |
 | [Billy Franscois Kolibonso](https://github.com/BillyFrcs) | C224DKX4236  | Cloud Computing | Universitas Kristen Indonesia Maluku |
 | [Ilma Aulia](https://github.com/ilmaaulia) | C012DSY1935  | Cloud Computing | Institut Pendidikan Indonesia Garut |
-| [Rifky Fahrizal Ubaidillah](https://github.com/Rifzzu) | A360DSX3633 | Mobile Developer | Universitas Telkom |
+| [Rifky Fahrizal Ubaidillah](https://github.com/Rifzzu) | A360DSX3633 | Mobile Development | Universitas Telkom |
 
 <br>
 
